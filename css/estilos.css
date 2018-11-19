@@ -8,11 +8,11 @@ body{
 }
 
 .lugares{
-	padding: 2%;
+  padding: 2%;
 }
 
 .lugar{
-	padding: 2%;
+  padding-bottom: 4%;
 }
 
 a{
@@ -23,6 +23,10 @@ a{
   color: white;
   width: 10rem;
   text-decoration: none;
-  margin-bottom: 5%;
+  margin: 6%;
+}
 
+#map{
+  width: 50%;
+  height: auto;
 }
