@@ -1,0 +1,26 @@
+body{
+  background-image: url("../images/costa-dorada.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  text-align: center;
+  color: white;
+}
+
+.lugares{
+	padding: 3%;
+	display: inline-block;
+}
+
+.lugar{
+	padding: 15%;
+}
+
+a{
+  font-weight: bold;
+  background-color: rgb(122, 177, 96)!important;
+  border-radius: 1.5rem!important;
+  padding: .75rem .75rem!important;
+  color: white;
+  width: 10rem;
+  text-decoration: none;
+}
